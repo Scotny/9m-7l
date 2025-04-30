@@ -76,14 +76,6 @@
   background-size: cover;
 }
 
-.instructors {
-  background: url(intructor.svg) no-repeat center;
-}
-
-.students {
-  background: url(student.svg) no-repeat center;
-}
-
 .teaching h3 {
   color: #ffffff;
   font-weight: 600;

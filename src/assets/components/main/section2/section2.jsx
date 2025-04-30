@@ -38,11 +38,19 @@ function Section2() {
           provide students with feedback all in one place.
         </p>
         <div className="teaching">
-          <div className="instructors">
+          <div
+            style={{
+              background: `url(${icons.instructor}) no-repeat center`,
+            }}
+          >
             <h3>FOR INSTRUCTORS</h3>
             <button>Start a class today</button>
           </div>
-          <div className="students">
+          <div
+            style={{
+              background: `url(${icons.student}) no-repeat center`,
+            }}
+          >
             <h3>FOR STUDENTS</h3>
             <button>Enter access code</button>
           </div>

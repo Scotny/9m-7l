@@ -1,6 +1,8 @@
 import logo from "./images/logo.svg";
 import logonight from "./images/logonight.svg";
 import overview from "./images/overview.svg";
+import instructor from "./images/instructor.svg";
+import student from "./images/student.svg";
 
 import google from "./images/companys/google.svg";
 import netflix from "./images/companys/netflix.svg";
@@ -18,6 +20,8 @@ export default {
   logo,
   logonight,
   overview,
+  instructor,
+  student,
   card1,
   card2,
   card3,
