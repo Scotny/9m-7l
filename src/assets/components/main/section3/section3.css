@@ -1,0 +1,62 @@
+.section3 {
+  padding: 100px 0;
+}
+
+.section3 h2 {
+  color: #2f327d;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 180%;
+  letter-spacing: 0%;
+  text-align: center;
+}
+
+.section3 p {
+  color: #696984;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 180%;
+  letter-spacing: 0%;
+  text-align: center;
+}
+
+.cards{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 100px;
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  gap: 200px;
+}
+
+.card3{
+    gap: 50px;
+}
+
+.cardtext {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.card h3 {
+  text-align: left;
+  color: #2f327d;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 160%;
+  letter-spacing: 0%;
+}
+
+.card p {
+  text-align: left;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 180%;
+  letter-spacing: 2%;
+}
